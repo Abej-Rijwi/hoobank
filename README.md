@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/SuX_4d9Sp3Q" target="_blank">
+    <a href="https://youtu.be/Ou77zEajm1U" target="_blank">
       <img src="https://i.ibb.co/BK1Hn0x/Screenshot-2022-08-08-at-4-05-48-PM.png" alt="Project Banner">
     </a>
   <br />
@@ -35,7 +35,7 @@ channel, <a href="https://www.youtube.com/@MasterJavaScript" target="_blank"><b>
 If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects
 like these step-by-step in a beginner-friendly manner!
 
-<a href="https://youtu.be/SuX_4d9Sp3Q" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
+<a href="https://youtu.be/Ou77zEajm1U target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
 ## <a name="introduction">🤖 Introduction</a>
 
